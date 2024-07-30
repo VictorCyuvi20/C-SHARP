@@ -16,8 +16,16 @@ class Program
         int idade = Convert.ToInt32(Console.ReadLine());
         Console.WriteLine("Você tem " + idade + " anos");                             
         if (idade > 17)
-            Console.WriteLine("VOCÊ PODE SER PRESO!!");                   
+        {
+            Random numAleatorio = new Random();
+            int anos = numAleatorio.Next(1,100);
+            Console.WriteLine("VOCÊ VAI SER PRESO!!" + " Você vai apodrecer na cadeia por " + anos + " anos");              
+            
+        }
         else 
-            Console.WriteLine("VOCÊ VAI PRA FEBEM");
+        {
+            int faltam = 18 - idade;
+            Console.WriteLine("VOCÊ VAI PRA FEBEM, faltam " + faltam + " anos para vc ir pro inferno 2.0");
+        }
     }
 }

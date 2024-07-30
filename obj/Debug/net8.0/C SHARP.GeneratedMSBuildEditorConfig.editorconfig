@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = C_SHARP
-build_property.ProjectDir = C:\Users\SENAI\Desktop\C SHARP\
+build_property.ProjectDir = c:\Users\SENAI\Desktop\C SHARP\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
