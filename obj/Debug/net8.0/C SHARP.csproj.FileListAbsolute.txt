@@ -1,0 +1,14 @@
+C:\Users\SENAI\Desktop\C SHARP\bin\Debug\net8.0\C SHARP.exe
+C:\Users\SENAI\Desktop\C SHARP\bin\Debug\net8.0\C SHARP.deps.json
+C:\Users\SENAI\Desktop\C SHARP\bin\Debug\net8.0\C SHARP.runtimeconfig.json
+C:\Users\SENAI\Desktop\C SHARP\bin\Debug\net8.0\C SHARP.dll
+C:\Users\SENAI\Desktop\C SHARP\bin\Debug\net8.0\C SHARP.pdb
+C:\Users\SENAI\Desktop\C SHARP\obj\Debug\net8.0\C SHARP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SENAI\Desktop\C SHARP\obj\Debug\net8.0\C SHARP.AssemblyInfoInputs.cache
+C:\Users\SENAI\Desktop\C SHARP\obj\Debug\net8.0\C SHARP.AssemblyInfo.cs
+C:\Users\SENAI\Desktop\C SHARP\obj\Debug\net8.0\C SHARP.csproj.CoreCompileInputs.cache
+C:\Users\SENAI\Desktop\C SHARP\obj\Debug\net8.0\C SHARP.dll
+C:\Users\SENAI\Desktop\C SHARP\obj\Debug\net8.0\refint\C SHARP.dll
+C:\Users\SENAI\Desktop\C SHARP\obj\Debug\net8.0\C SHARP.pdb
+C:\Users\SENAI\Desktop\C SHARP\obj\Debug\net8.0\C SHARP.genruntimeconfig.cache
+C:\Users\SENAI\Desktop\C SHARP\obj\Debug\net8.0\ref\C SHARP.dll
